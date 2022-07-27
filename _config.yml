@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xun Pang / Professor of International Relations"
+title                    : "Xun Pang"
 title_separator          : "-"
 name                     : &name "Xun Pang"
 description              : &description "personal description"
